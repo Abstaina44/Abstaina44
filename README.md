@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Abstaina](https://hashnode.com/@Abstaina)
 
-- 💬 Ask me about **Blockchain,Smart Contracts,React,Vue,Bootstrap,Tailwind,**
+- 💬 Ask me about **Blockchain,Smart Contracts,React,Python,Vue,Bootstrap,Tailwind,**
 
 - 📫 How to reach me **padcliff88@gmail.com**
 
