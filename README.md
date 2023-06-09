@@ -6,7 +6,32 @@
 
 <p align="left"> <a href="https://twitter.com/abstaina_eth" target="blank"><img src="https://img.shields.io/twitter/follow/abstaina_eth?logo=twitter&style=for-the-badge" alt="abstaina_eth" /></a> </p>
 
-- 🌱 I’m currently learning **React,ReactJs,Rust,JavaScript,Solidity**
+- 🌱 I’m currently learning **React,ReactJs,Rust [For Hire] [Full Time / Part Time] [Full Remote]
+
+**I'm a Web designer and developer who has extensive experience.**
+
+        Quick Learner 🪢 High Quality 🪢 Fast Delivery 🪢 Flexible Working Time 🪢 Creative Idea
+
+🫧 **Frontend Skills**
+-  HTML/HTML5, CSS, Sass/Less, Bootstrap, Tailwind CSS, Material UI
+- JavaScript, TypeScript, jQuery/Prototype, D3.js, Three.js
+- React.js, Next.js, AngluarJS, RemixJS, React Native
+
+🫧 **Backend Skills**
+- Node.js, Express.js, TypeScript, Python, Django
+- Rest API, Socket.io, GraphicQL
+- SQL(MySQL, SqlLite), NoSQL(MongoDB, CouchDB), Firebase
+
+🫧 **Blockchain**
+- Ethereum, dApps
+- Web3.js, Ether.js
+- Smart Contract, Solidity, Rust, Hardhat, Truffle
+
+🫧 **Others**
+- Git, GitLab, Web Hosting, AWS
+
+Hope to chat about your project and work with you.
+Thank you.,JavaScript,Solidity**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
