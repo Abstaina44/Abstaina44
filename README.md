@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React,ReactJs,Rust [For Hire] [Full Time / Part Time] [Full Remote]
 
-**I'm a Web designer and developer who has extensive experience.**
-
         Quick Learner 🪢 High Quality 🪢 Fast Delivery 🪢 Flexible Working Time 🪢 Creative Idea
 
 🫧 **Frontend Skills**
@@ -17,21 +15,13 @@
 - JavaScript, TypeScript, jQuery/Prototype, D3.js, Three.js
 - React.js, Next.js, AngluarJS, RemixJS, React Native
 
-🫧 **Backend Skills**
-- Node.js, Express.js, TypeScript, Python, Django
-- Rest API, Socket.io, GraphicQL
-- SQL(MySQL, SqlLite), NoSQL(MongoDB, CouchDB), Firebase
-
 🫧 **Blockchain**
 - Ethereum, dApps
 - Web3.js, Ether.js
 - Smart Contract, Solidity, Rust, Hardhat, Truffle
 
 🫧 **Others**
-- Git, GitLab, Web Hosting, AWS
-
-Hope to chat about your project and work with you.
-Thank you.,JavaScript,Solidity**
+- Git, GitLab, Web Hosting,AWS
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
