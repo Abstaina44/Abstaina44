@@ -1,6 +1,6 @@
 <h2 align="center"> I  am  Ephraim  😁 </h2>
 
-<h3 align="center">A passionate Frontend Engineer and a Blockchain Developer (Solidity) Contributing to Opensource 👨‍💻.</h3>
+<h3 align="center">A passionate Frontend Wizard and a Blockchain Developer (Solidity) Contributing to Opensource 👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abstaina44&label=Profile%20views&color=0e75b6&style=flat" alt="abstaina44" /> </p>
 
