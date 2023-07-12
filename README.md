@@ -20,9 +20,6 @@
 - Web3.js, Ether.js
 - Smart Contract, Solidity, Rust, Hardhat, Truffle
 
-🫧 **Others**
-- Git, GitLab, Web Hosting,AWS
-
 - 👯 I’m looking to collaborate on **Opensource projects**
 
 - 👨‍💻 All of my projects are available at [https://mssg.me/s334e](https://mssg.me/s334e)
