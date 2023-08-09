@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/abstaina_eth" target="blank"><img src="https://img.shields.io/twitter/follow/abstaina_eth?logo=twitter&style=for-the-badge" alt="abstaina_eth" /></a> </p>
 
-- 🌱 I’m currently learning **React,ReactJs,Rust**
-
         Quick Learner 🪢 High Quality 🪢 Fast Delivery 🪢 Flexible Working Time 🪢 Creative Idea
 
 -  HTML/HTML5,CSS
@@ -23,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Abstaina](https://hashnode.com/@Abstaina)
 
-- 💬 Ask me about **Blockchain,Smart Contracts,React,Python,Vue,Bootstrap,Tailwind,**
+- 💬 Ask me about **Blockchain,Smart Contracts Crypto Trading,**
 
 - 📫 How to reach me **padcliff88@gmail.com**
 
