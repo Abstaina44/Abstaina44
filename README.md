@@ -1,6 +1,6 @@
 <h2 align="center"> I  am  Ephraim  😁 </h2>
 
-<h3 align="center">A passionate Frontend Wizard ,Blockchain and Web 3.0 Dev (Solidity) Contributing to Opensource 👨‍💻.</h3>
+<h3 align="center">Blockchain and Web 3.0 Dev (Solidity) Contributing to Opensource 👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abstaina44&label=Profile%20views&color=0e75b6&style=flat" alt="abstaina44" /> </p>
 
@@ -10,10 +10,7 @@
 
         Quick Learner 🪢 High Quality 🪢 Fast Delivery 🪢 Flexible Working Time 🪢 Creative Idea
 
-🫧 **Frontend Skills**
--  HTML/HTML5, CSS, Sass/Less, Bootstrap, Tailwind CSS, Material UI
-- JavaScript, TypeScript, jQuery/Prototype, D3.js, Three.js
-- React.js, Next.js, AngluarJS, RemixJS, React Native
+-  HTML/HTML5,CSS
 
 🫧 **Blockchain**
 - Ethereum, dApps
