@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/abstaina_eth" target="blank"><img src="https://img.shields.io/twitter/follow/abstaina_eth?logo=twitter&style=for-the-badge" alt="abstaina_eth" /></a> </p>
 
-        Quick Learner 🪢 High Quality 🪢 Fast Delivery 🪢 Flexible Working Time 🪢 Creative Idea
-
 -  HTML/HTML5,CSS
 -  Web 3.0 Front End Developer.
 
