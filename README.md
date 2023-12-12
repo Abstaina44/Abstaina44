@@ -3,12 +3,14 @@
 <h3 align="center">Blockchain,DeFi,Web 3.0,Smart Contracts(Solidity) Contributing to Opensource 👨‍💻.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abstaina44&label=Profile%20views&color=0e75b6&style=flat" alt="abstaina44" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abstaina44&label=Profile%20views&color=0e75b6&style=flat" alt="abstaina44" /> </p> 
+
+
+[![committers.top badge](https://user-badge.committers.top/ghana/abstaina44.svg)](https://user-badge.committers.top/ghana/abstaina44)
 
 
 <p align="left"> <a href="https://twitter.com/abstaina_eth" target="blank"><img src="https://img.shields.io/twitter/follow/abstaina_eth?logo=twitter&style=for-the-badge" alt="abstaina_eth" /></a> </p> 
 
-[![committers.top badge](https://user-badge.committers.top/ghana/abstaina44.svg)](https://user-badge.committers.top/ghana/abstaina44)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) 
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
