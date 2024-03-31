@@ -14,10 +14,11 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]() 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
+
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
