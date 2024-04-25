@@ -25,9 +25,9 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Abstaina](https://hashnode.com/@Abstaina)
 
-- 💬 Ask me about **Blockchain,Smart Contracts Crypto Trading,**
+- 💬 Ask me about **Blockchain,Web3.0,Smart Contracts,**
 
-- 📫 How to reach me **padcliff88@gmail.com**
+- 📫 How to reach me **padcliff88@skiff.com**
 
 - ⚡ Fun fact **Consistency ,an introvert and love to play chess♗♟️**
 
