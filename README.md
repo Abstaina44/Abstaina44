@@ -19,13 +19,13 @@
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]() 
 
 
-- 👯 I’m looking to collaborate on **Opensource projects**
+- 👯 I’m looking to collaborate on **Opensource Projects**
 
 - 👨‍💻 All of my projects are available at [https://mssg.me/s334e](https://mssg.me/s334e)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Abstaina](https://hashnode.com/@Abstaina)
 
-- 💬 Ask me about **Blockchain,Web3.0,Smart Contracts,**
+- 💬 Ask me about **Blockchain,Web3.0,Smart Contracts.**
 
 - 📫 How to reach me **padcliff88@skiff.com**
 
