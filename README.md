@@ -17,6 +17,8 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]() 
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=)]()
+
 
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
