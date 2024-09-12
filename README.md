@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Blockchain,Web3.0,Smart Contracts.**
 
-- 📫 How to reach me **padcliff88@skiff.com**
+- 📫 How to reach me **padcliff88@gmail.com**
 
 - ⚡ Fun fact **Consistency ,an introvert and love to play chess♗♟️**
 
