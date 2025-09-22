@@ -33,7 +33,7 @@
 
 - ⚡ Fun fact **Consistency ,an introvert and love to play chess♗♟️**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch with me:</h3>
 <a href="https://twitter.com/abstaina_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abstaina_eth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ephraim-a-1a8204a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ephraim-a-1a8204a8/" height="30" width="40" /></a>
 <a href="https://discord.gg/0xx.eth#9464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xx.eth#9464" height="30" width="40" /></a>
